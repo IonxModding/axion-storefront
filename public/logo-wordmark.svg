@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 260" role="img" aria-labelledby="title">
+  <title id="title">AXION</title>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7dc82"/>
+      <stop offset=".46" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#8e6b13"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#gold)">
+    <path d="M98 218 212 36h47L373 218h-59L236 90l-79 128H98Z"/>
+    <path d="M415 44h66l74 65 74-65h66l-108 92 108 82h-68l-72-60-72 60h-68l108-82L415 44Z"/>
+    <rect x="733" y="44" width="48" height="174" rx="3"/>
+    <path d="M837 44h154c25 0 44 19 44 44v86c0 25-19 44-44 44H837V44Zm49 44v86h93c5 0 8-3 8-8V96c0-5-3-8-8-8h-93Z"/>
+    <path d="M1083 218V44h48l129 108V44h48v174h-46l-131-110v110h-48Z" transform="translate(-208 0)"/>
+  </g>
+</svg>
